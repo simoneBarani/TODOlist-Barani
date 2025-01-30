@@ -4,5 +4,24 @@
     "express": "^4.21.2",
     "http": "^0.0.1-security",
     "path": "^0.12.7"
-  }
+  },
+  "name": "todolist-barani",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simoneBarani/TODOlist-Barani.git"
+  },
+  "author": "simoneBarani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simoneBarani/TODOlist-Barani/issues"
+  },
+  "homepage": "https://github.com/simoneBarani/TODOlist-Barani#readme",
+  "description": ""
 }
