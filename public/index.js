@@ -2,7 +2,7 @@ let todos = [];
 const button = document.getElementById("submit");
 const input = document.getElementById("inputText");
 const ul = document.getElementById("ul");
-let count = 0;
+//let count = 0;
 
 
 const render = () => {
